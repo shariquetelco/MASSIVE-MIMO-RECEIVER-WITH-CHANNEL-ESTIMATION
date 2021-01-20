@@ -1,2 +1,9 @@
 # MASSIVE-MIMO-RECEIVER-WITH-CHANNEL-ESTIMATION
 MASSIVE MIMO RECEIVER WITH CHANNEL ESTIMATION
+
+# -*- coding: utf-8 -*-
+"""
+Created on Wed Dec 23 15:50:18 2020
+
+## @author: MOHAMMAD SHARIQUE AHMAD
+sharique.ahmad@ieee.org
